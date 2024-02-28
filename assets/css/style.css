@@ -1,0 +1,37 @@
+h1{
+color: blueviolet;
+}
+h2{
+    color: cornflowerblue;
+}
+h4{
+    color:coral;
+}
+header{
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+}
+.color2{
+    color: coral;
+}
+#uni{
+    list-style: circle;
+}
+.color3{
+    color:blueviolet;
+}
+a{
+    color: crimson;
+    text-decoration: none;
+}
+.columas{
+    display:flex;
+    align-self:baseline;
+   
+}
+.espacio{
+    display:block;
+    align-items: center;
+    padding-right: 60px;
+}
